@@ -1,6 +1,6 @@
 # DA4D190313
 
-## 第7回 意思決定のためのデータ分析勉強会 in Fukuoka<BR>      〜 歴史に学ぶ意思決定 〜
+## 第7回 意思決定のためのデータ分析勉強会 in Fukuoka<BR>        〜 歴史に学ぶ意思決定 〜
 ### https://ishikettei.connpass.com/event/122043/
 - 日時 : 2019年3月13日（水） 19:00スタート
 - 会場 : 大名WeWork
