@@ -8,10 +8,13 @@
 - 「LT 5分枠」の資料です。ちょくちょく修正が入りますが、ご了承ください。
 <BR></BR>
 【ファイル・フォルダの説明】
+ - README.md : このファイル
  - DB : 交通事故データを納めたフォルダ
+  - accident.sqlite : RDBに納めた交通事故データ（SQLite3）
+  - h28.xlsx : 平成28年の交通事故データ
+  - h29.xlsx : 平成29年の交通事故データ
  - heat_map.html :（デモ）地図のヒートマップ
  - hot_spot10m.html :（デモ）危険な交差点
  - hot_spot50m.html :（デモ）危険なエリア
  - ヒートマップ.ipynb :（デモ）行列型のヒートマップ（Jupyter Notebook）
  - 福岡県の交通事故を見える化して見た.pdf : LT資料のPDF
- - README.md : このファイル
