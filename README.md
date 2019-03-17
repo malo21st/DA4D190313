@@ -16,4 +16,4 @@
  - hot_spot10m.html :（デモ）危険な交差点
  - hot_spot50m.html :（デモ）危険なエリア
  - ヒートマップ.ipynb :（デモ）数値データのヒートマップ（Jupyter Notebook）
- - 福岡県の交通事故を見える化して見た.pdf : LT資料
+ - 福岡県の交通事故を見える化してみた.pdf : LT資料
